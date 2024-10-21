@@ -182,6 +182,13 @@
     "type": "shx"
   },
   {
+    "file": "gdt.ttf",
+    "name": [
+      "gdt"
+    ],
+    "type": "ttf"
+  },
+  {
     "file": "gbgdt.woff",
     "name": [
       "gbgdt"
