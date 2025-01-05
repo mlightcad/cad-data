@@ -420,17 +420,17 @@
     "type": "shx"
   },
   {
-    "file": "SimKai.woff",
+    "file": "simkai.woff",
     "name": [
-      "SimKai",
+      "simkai",
       "楷体"
     ],
     "type": "woff"
   },
   {
-    "file": "SimHei.woff",
+    "file": "simhei.woff",
     "name": [
-      "SimHei",
+      "simhei",
       "黑体"
     ],
     "type": "woff"
@@ -450,9 +450,9 @@
     "type": "shx"
   },
   {
-    "file": "SimSun.woff",
+    "file": "simsun.ttf",
     "name": [
-      "SimSun",
+      "simsun",
       "中易宋体",
       "微软宋体",
       "宋体"
@@ -537,9 +537,9 @@
     "type": "shx"
   },
   {
-    "file": "Tahoma.woff",
+    "file": "tahoma.woff",
     "name": [
-      "Tahoma"
+      "tahoma"
     ],
     "type": "woff"
   },
