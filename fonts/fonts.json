@@ -4,7 +4,8 @@
     "name": [
       "@extfont2"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "gbk"
   },
   {
     "file": "AcadEref.shx",
@@ -95,7 +96,8 @@
     "name": [
       "chineset"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "gbk"
   },
   {
     "file": "complex.shx",
@@ -116,21 +118,24 @@
     "name": [
       "extfont"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "gbk"
   },
   {
     "file": "extfont2.shx",
     "name": [
       "extfont2"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "gbk"
   },
   {
     "file": "exthalf2.shx",
     "name": [
       "exthalf2"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "gbk"
   },
   {
     "file": "extslim2.shx",
@@ -165,7 +170,8 @@
     "name": [
       "gbcbig"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "gbk"
   },
   {
     "file": "gbeitc.shx",
