@@ -61,7 +61,7 @@
     "name": [
       "arial"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "bigfont.shx",
@@ -199,7 +199,7 @@
     "name": [
       "gbgdt"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "GENISO.shx",
@@ -431,7 +431,7 @@
       "simkai",
       "楷体"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "simhei.woff",
@@ -439,7 +439,7 @@
       "simhei",
       "黑体"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "simplex.shx",
@@ -463,14 +463,14 @@
       "中易宋体",
       "微软宋体"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "SJQY.woff",
     "name": [
       "SJQY"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "spec_bar.shx",
@@ -547,7 +547,7 @@
     "name": [
       "tahoma"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "txt.shx",
@@ -561,7 +561,7 @@
     "name": [
       "verdana"
     ],
-    "type": "woff"
+    "type": "mesh"
   },
   {
     "file": "whgdtxt.shx",
