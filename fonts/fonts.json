@@ -97,7 +97,7 @@
       "chineset"
     ],
     "type": "shx",
-    "encoding": "gbk"
+    "encoding": "big5"
   },
   {
     "file": "complex.shx",
@@ -568,27 +568,31 @@
     "name": [
       "whgdtxt"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "euc-kr"
   },
   {
     "file": "whgtxt.shx",
     "name": [
       "whgtxt"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "euc-kr"
   },
   {
     "file": "whtgtxt.shx",
     "name": [
       "whtgtxt"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "euc-kr"
   },
   {
     "file": "whtmtxt.shx",
     "name": [
       "whtmtxt"
     ],
-    "type": "shx"
+    "type": "shx",
+    "encoding": "euc-kr"
   }
 ]
