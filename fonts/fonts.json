@@ -272,6 +272,14 @@
     "type": "shx"
   },
   {
+    "file": "hztxt.shx",
+    "name": [
+      "hztxt"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
     "file": "iges1001.shx",
     "name": [
       "iges1001"
