@@ -644,5 +644,59 @@
       "zjdz-s"
     ],
     "type": "shx"
+  },
+  {
+    "file": "gbhzfs.shx",
+    "name": [
+      "gbhzfs"
+    ],
+    "encoding": "gbk",
+    "type": "shx"
+  },
+  {
+    "file": "Pkpmeng.shx",
+    "name": [
+      "Pkpmeng"
+    ],
+    "encoding": "gbk",
+    "type": "shx"
+  },
+  {
+    "file": "Tssdchn.shx",
+    "name": [
+      "Tssdchn"
+    ],
+    "encoding": "gbk",
+    "type": "shx"
+  },
+  {
+    "file": "Tssdeng2.shx",
+    "name": [
+      "Tssdeng2"
+    ],
+    "type": "shx"
+  },
+  {
+    "file": "Tssdeng.shx",
+    "name": [
+      "Tssdeng"
+    ],
+    "type": "shx"
+  },
+  {
+    "file": "yjkchn.shx",
+    "name": [
+      "yjkchn"
+    ],
+    "encoding": "gbk",
+    "type": "shx"
+  },
+  {
+    "file": "yjkeng.shx",
+    "name": [
+      "yjkeng"
+    ],
+    "type": "shx"
   }
+
 ]
