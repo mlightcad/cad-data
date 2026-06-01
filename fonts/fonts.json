@@ -301,6 +301,14 @@
     "type": "shx"
   },
   {
+    "file": "intecad.shx",
+    "name": [
+      "intecad"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
     "file": "ISO.shx",
     "name": [
       "ISO"
