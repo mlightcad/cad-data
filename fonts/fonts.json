@@ -442,6 +442,18 @@
     "type": "shx"
   },
   {
+    "file": "simfang.woff",
+    "name": [
+      "simfang",
+      "FangSong",
+      "FangSong_GB2312‌",
+      "仿宋",
+      "仿宋_GB2312",
+      "华文仿宋"
+    ],
+    "type": "mesh"
+  },
+  {
     "file": "simkai.woff",
     "name": [
       "simkai",
