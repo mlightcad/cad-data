@@ -654,17 +654,17 @@
     "type": "shx"
   },
   {
-    "file": "Pkpmeng.shx",
+    "file": "pkpmeng.shx",
     "name": [
-      "Pkpmeng"
+      "pkpmeng"
     ],
     "encoding": "gbk",
     "type": "shx"
   },
   {
-    "file": "Tssdchn.shx",
+    "file": "tssdchn.shx",
     "name": [
-      "Tssdchn"
+      "tssdchn"
     ],
     "encoding": "gbk",
     "type": "shx"
@@ -673,13 +673,6 @@
     "file": "Tssdeng2.shx",
     "name": [
       "Tssdeng2"
-    ],
-    "type": "shx"
-  },
-  {
-    "file": "Tssdeng.shx",
-    "name": [
-      "Tssdeng"
     ],
     "type": "shx"
   },
