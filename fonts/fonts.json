@@ -486,6 +486,14 @@
     "type": "mesh"
   },
   {
+    "file": "msyh.woff",
+    "name": [
+      "msyh",
+      "微软雅黑"
+    ],
+    "type": "mesh"
+  },
+  {
     "file": "simplex.shx",
     "name": [
       "simplex"
