@@ -578,6 +578,13 @@
     "type": "mesh"
   },
   {
+    "file": "tssdeng.shx",
+    "name": [
+      "tssdeng"
+    ],
+    "type": "shx"
+  },
+  {
     "file": "txt.shx",
     "name": [
       "txt"
