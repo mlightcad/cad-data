@@ -188,6 +188,14 @@
     "type": "shx"
   },
   {
+    "file": "gbhzfs.shx",
+    "name": [
+      "gbhzfs"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
     "file": "gdt.ttf",
     "name": [
       "gdt"
@@ -400,6 +408,14 @@
     "type": "shx"
   },
   {
+    "file": "pkpmeng.shx",
+    "name": [
+      "pkpmeng"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
     "file": "romanc.shx",
     "name": [
       "romanc"
@@ -578,6 +594,14 @@
     "type": "mesh"
   },
   {
+    "file": "tssdchn.shx",
+    "name": [
+      "tssdchn"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
     "file": "tssdeng.shx",
     "name": [
       "tssdeng"
@@ -629,6 +653,21 @@
     ],
     "type": "shx",
     "encoding": "euc-kr"
+  },
+  {
+    "file": "yjkchn.shx",
+    "name": [
+      "yjkchn"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
+    "file": "yjkeng.shx",
+    "name": [
+      "yjkeng"
+    ],
+    "type": "shx"
   },
   {
     "file": "zjdz.shx",
