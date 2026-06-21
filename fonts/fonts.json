@@ -394,6 +394,13 @@
     "type": "shx"
   },
   {
+    "file": "ltypeshp.shx",
+    "name": [
+      "ltypeshp"
+    ],
+    "type": "shx"
+  },
+  {
     "file": "monotxt.shx",
     "name": [
       "monotxt"
