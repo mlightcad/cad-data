@@ -203,11 +203,11 @@
     "encoding": "gbk"
   },
   {
-    "file": "gdt.ttf",
+    "file": "gdt.shx",
     "name": [
       "gdt"
     ],
-    "type": "ttf"
+    "type": "shx"
   },
   {
     "file": "gbgdt.woff",
