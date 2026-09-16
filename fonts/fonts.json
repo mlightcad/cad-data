@@ -422,6 +422,17 @@
     "type": "shx"
   },
   {
+    "file": "msgothic.woff",
+    "name": [
+      "msgothic",
+      "MS Gothic",
+      "ms gothic",
+      "ＭＳ ゴシック",
+      "MSゴシック"
+    ],
+    "type": "mesh"
+  },
+  {
     "file": "msyh.woff",
     "name": [
       "msyh",
