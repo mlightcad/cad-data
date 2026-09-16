@@ -195,6 +195,13 @@
     "type": "shx"
   },
   {
+    "file": "gbgdt.woff",
+    "name": [
+      "gbgdt"
+    ],
+    "type": "mesh"
+  },
+  {
     "file": "gbhzfs.shx",
     "name": [
       "gbhzfs"
@@ -208,13 +215,6 @@
       "gdt"
     ],
     "type": "shx"
-  },
-  {
-    "file": "gbgdt.woff",
-    "name": [
-      "gbgdt"
-    ],
-    "type": "mesh"
   },
   {
     "file": "GENISO.shx",
@@ -422,6 +422,26 @@
     "type": "shx"
   },
   {
+    "file": "msyh.woff",
+    "name": [
+      "msyh",
+      "微软雅黑"
+    ],
+    "type": "mesh"
+  },
+  {
+    "file": "noto-sans-kr.woff",
+    "name": [
+      "noto-sans-kr",
+      "malgun",
+      "malgungothic",
+      "Malgun Gothic",
+      "맑은고딕",
+      "맑은 고딕"
+    ],
+    "type": "mesh"
+  },
+  {
     "file": "pkpmeng.shx",
     "name": [
       "pkpmeng"
@@ -484,14 +504,6 @@
     "type": "mesh"
   },
   {
-    "file": "simkai.woff",
-    "name": [
-      "simkai",
-      "楷体"
-    ],
-    "type": "mesh"
-  },
-  {
     "file": "simhei.woff",
     "name": [
       "simhei",
@@ -500,10 +512,10 @@
     "type": "mesh"
   },
   {
-    "file": "msyh.woff",
+    "file": "simkai.woff",
     "name": [
-      "msyh",
-      "微软雅黑"
+      "simkai",
+      "楷体"
     ],
     "type": "mesh"
   },
@@ -595,6 +607,13 @@
     "type": "shx"
   },
   {
+    "file": "tahoma.woff",
+    "name": [
+      "tahoma"
+    ],
+    "type": "mesh"
+  },
+  {
     "file": "times.shx",
     "name": [
       "times"
@@ -607,13 +626,6 @@
       "timesout"
     ],
     "type": "shx"
-  },
-  {
-    "file": "tahoma.woff",
-    "name": [
-      "tahoma"
-    ],
-    "type": "mesh"
   },
   {
     "file": "tssdchn.shx",
@@ -692,18 +704,18 @@
     "type": "shx"
   },
   {
+    "file": "zjdz-s.shx",
+    "name": [
+      "zjdz-s"
+    ],
+    "type": "shx"
+  },
+  {
     "file": "zjdz.shx",
     "name": [
       "zjdz"
     ],
     "type": "shx",
     "encoding": "gbk"
-  },
-  {
-    "file": "zjdz-s.shx",
-    "name": [
-      "zjdz-s"
-    ],
-    "type": "shx"
   }
 ]
