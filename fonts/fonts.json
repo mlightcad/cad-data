@@ -287,6 +287,14 @@
     "type": "shx"
   },
   {
+    "file": "hgcadhz.shx",
+    "name": [
+      "hgcadhz"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
     "file": "hztxt.shx",
     "name": [
       "hztxt"
