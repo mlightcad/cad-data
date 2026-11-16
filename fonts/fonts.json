@@ -303,6 +303,14 @@
     "encoding": "gbk"
   },
   {
+    "file": "hztxt2.shx",
+    "name": [
+      "hztxt2"
+    ],
+    "type": "shx",
+    "encoding": "gbk"
+  },
+  {
     "file": "iges1001.shx",
     "name": [
       "iges1001"
@@ -665,6 +673,13 @@
     "file": "txt.shx",
     "name": [
       "txt"
+    ],
+    "type": "shx"
+  },
+  {
+    "file": "txt8.shx",
+    "name": [
+      "txt8"
     ],
     "type": "shx"
   },
