@@ -217,6 +217,13 @@
     "type": "shx"
   },
   {
+    "file": "geditxt.shx",
+    "name": [
+      "geditxt"
+    ],
+    "type": "shx"
+  },
+  {
     "file": "GENISO.shx",
     "name": [
       "GENISO"
@@ -452,7 +459,13 @@
     "file": "msyh.woff",
     "name": [
       "msyh",
-      "微软雅黑"
+      "microsoft yahei",
+      "microsoftyahei",
+      "microsoft yahei ui",
+      "ms yahei",
+      "yahei",
+      "微软雅黑",
+      "雅黑"
     ],
     "type": "mesh"
   },
