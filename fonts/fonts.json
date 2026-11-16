@@ -64,6 +64,20 @@
     "type": "shx"
   },
   {
+    "file": "archs.shx",
+    "name": [
+      "archs"
+    ],
+    "type": "shx"
+  },
+  {
+    "file": "archstyl.shx",
+    "name": [
+      "archstyl"
+    ],
+    "type": "shx"
+  },
+  {
     "file": "arial.woff",
     "name": [
       "arial"
